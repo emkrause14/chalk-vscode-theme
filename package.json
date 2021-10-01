@@ -1,8 +1,8 @@
 {
     "name": "chalk",
-    "displayName": "Chalk",
-    "description": "",
-    "version": "0.0.1",
+    "displayName": "Chalk Theme",
+    "description": "A VS Code theme based on the colors from chalk, the terminal styling library.",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.60.0"
     },
