@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.2.0] — 2021-10-01
+
+### Changed
+
+- Make colors more like the actual chalk colors.
+
 ## [0.1.0] - 2021-09-30
 
 - Initial release
