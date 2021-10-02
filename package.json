@@ -2,9 +2,13 @@
     "name": "chalk",
     "displayName": "Chalk Theme",
     "description": "A VS Code theme based on the colors from chalk, the terminal styling library.",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "emmakrause",
-    "repository": "https://github.com/emkrause14/chalk-vscode-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emkrause14/chalk-vscode-theme"
+    },
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.60.0"
     },

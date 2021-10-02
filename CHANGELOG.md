@@ -6,6 +6,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.3.0] — 2021-10-02
+
+### Added
+
+- Extension icon.
+
+### Changed
+
+- Teal color.
+- Other small tweaks.
+
 ## [0.2.0] — 2021-10-01
 
 ### Changed
