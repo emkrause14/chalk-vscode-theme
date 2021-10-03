@@ -1,6 +1,4 @@
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/emmakrause.chalk)
-
-# Chalk VS Code Theme 
+# Chalk VS Code Theme [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/emmakrause.chalk)](https://marketplace.visualstudio.com/items?itemName=emmakrause.chalk)
 
 A VS Code theme based on the colors from chalk, the terminal styling library.
 

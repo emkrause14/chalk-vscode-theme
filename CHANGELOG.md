@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.0] — 2021-10-02
 
+### Added
+
+- Badge and screenshot to README.
+
 ### Fixed
 
 - Terminal cursor contrast.
