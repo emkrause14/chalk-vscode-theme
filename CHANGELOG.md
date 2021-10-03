@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.0] — 2021-10-02
+
+### Fixed
+
+- Terminal cursor contrast.
+
 ## [0.3.0] — 2021-10-02
 
 ### Added
